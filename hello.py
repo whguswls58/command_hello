@@ -1,3 +1,2 @@
-create "hello world"program
-
 print("Hello World")
+print("Tell you world")
